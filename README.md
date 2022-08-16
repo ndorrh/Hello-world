@@ -11,7 +11,7 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Ndorrh Oswald Ebu**
 
 - GitHub: [@githubhandle](https://github.com/ndorrh)
 - Twitter: [@twitterhandle](https://twitter.com/ndorrh)
